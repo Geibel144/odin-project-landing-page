@@ -16,7 +16,6 @@ header {
 }
 
 .header-content {
-  /* To do: come back to this and check if possible to use align-self or other method to avoid using a header-container */
   flex: 1 1 auto;
   box-sizing: border-box;
   display: flex;
